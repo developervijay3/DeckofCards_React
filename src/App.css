@@ -1,0 +1,55 @@
+.App-link {
+  color: #61dafb;
+}
+
+.card{
+  width:20px;
+  background-color: white;
+  float:left;
+  margin-right: 10px;
+  margin-top:10px;
+}
+
+img{
+  width:100px;
+}
+
+.col-md-2{
+  padding:0 !important;
+}
+
+.col-md-3{
+  padding-left:0 !important;
+  margin-bottom:5px;
+}
+
+.btn-group-vertical{
+  width:100%;
+}
+
+.btn-danger,.btn-success,.btn-primary,.btn-warning {
+  padding: 15px 5px !important;
+}
+
+.visible{
+  display:block;
+}
+
+.hidden{
+  display:none;
+}
+
+h3{
+  margin: 0 !important;
+}
+
+#root{
+  background-image:url('./assests//background.jpg');
+  background-size: cover;
+  height: 100%;
+  color:white;
+}
+
+label{
+  color: white;
+}
